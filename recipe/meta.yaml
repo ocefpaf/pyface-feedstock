@@ -6,7 +6,7 @@ package:
 
 source:
   fn: pyface-{{ version }}.tar.bz2
-  url: https://pypi.python.org/packages/source/p/pyface/pyface-{{ version }}.tar.bz2
+  url: https://pypi.python.org/packages/00/ec/04b1d7f1981107cde01bbc4a53ae2a234493e694cfa880fc00817e6c2a42/pyface-{{ version }}.tar.bz2
   md5: b858301ef92269c3e4de82d90cba3020
 
 build:
